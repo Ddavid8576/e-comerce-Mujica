@@ -1,0 +1,99 @@
+[
+    {
+      "id": 1,
+      "titulo": "Tratamiento Capilar",
+      "descripcion": "Tratamiento intensivo para reparar el cabello dañado.",
+      "categoria": "Productos",
+      "imagen": "https://i.imgur.com/1blP5yM.png",
+      "precio": 20.99
+    },
+    {
+      "id": 2,
+      "titulo": "Shampoo Hidratante",
+      "descripcion": "Shampoo con ingredientes naturales para hidratar el cabello.",
+      "categoria": "Productos",
+      "imagen": "https://i.imgur.com/1blP5yM.png",
+      "precio": 10.99
+    },
+    {
+      "id": 3,
+      "titulo": "Corte de Cabello",
+      "descripcion": "Servicio profesional de corte de cabello.",
+      "categoria": "Servicios",
+      "imagen": "https://i.imgur.com/1blP5yM.png",
+      "precio": 15.00
+    },
+    {
+      "id": 4,
+      "titulo": "Aplicar Alisado",
+      "descripcion": "Servicio de alisado para un cabello liso y manejable.",
+      "categoria": "Servicios",
+      "imagen": "https://i.imgur.com/1blP5yM.png",
+      "precio": 50.00
+    },
+    {
+      "id": 5,
+      "titulo": "Tintura de Cabello",
+      "descripcion": "Servicio de tintura con colores vibrantes y duraderos.",
+      "categoria": "Servicios",
+      "imagen": "https://i.imgur.com/1blP5yM.png",
+      "precio": 40.00
+    },
+    {
+      "id": 6,
+      "titulo": "Tijeras Profesionales",
+      "descripcion": "Tijeras de alta calidad para cortes precisos.",
+      "categoria": "Herramientas",
+      "imagen": "https://i.imgur.com/1blP5yM.png",
+      "precio": 25.99
+    },
+    {
+      "id": 7,
+      "titulo": "Plancha de Cabello",
+      "descripcion": "Plancha de cabello con tecnología avanzada para un alisado perfecto.",
+      "categoria": "Herramientas",
+      "imagen": "https://i.imgur.com/1blP5yM.png",
+      "precio": 60.00
+    },
+    {
+      "id": 8,
+      "titulo": "Cepillo Desenredante",
+      "descripcion": "Cepillo diseñado para desenredar el cabello sin dolor.",
+      "categoria": "Herramientas",
+      "imagen": "https://i.imgur.com/1blP5yM.png",
+      "precio": 15.00
+    },
+    {
+      "id": 9,
+      "titulo": "Acondicionador",
+      "descripcion": "Acondicionador nutritivo para cabello seco y dañado.",
+      "categoria": "Productos",
+      "imagen": "https://i.imgur.com/1blP5yM.png",
+      "precio": 12.99
+    },
+    {
+      "id": 10,
+      "titulo": "Mascarilla Capilar",
+      "descripcion": "Mascarilla intensiva para una hidratación profunda.",
+      "categoria": "Productos",
+      "imagen": "https://i.imgur.com/1blP5yM.png",
+      "precio": 18.50
+    },
+    {
+      "id": 11,
+      "titulo": "Corte y Peinado",
+      "descripcion": "Servicio de corte y peinado para cualquier ocasión.",
+      "categoria": "Servicios",
+      "imagen": "https://i.imgur.com/1blP5yM.png",
+      "precio": 30.00
+    },
+    {
+      "id": 12,
+      "titulo": "Secador de Cabello",
+      "descripcion": "Secador de cabello con múltiples configuraciones de calor.",
+      "categoria": "Herramientas",
+      "imagen": "https://i.imgur.com/1blP5yM.png",
+      "precio": 35.00
+    }
+  ]
+  

@@ -1,3 +1,18 @@
 body {
-  background-color: #F2F2F2;
+  background-color: #D6D9C5!important;;
+}
+
+.btn-custom {
+  background-color: #93A680 !important;
+  border-color: #93A680 !important;
+  color: white !important;
+}
+
+.btn-custom:hover {
+  background-color: #7C8F6C !important;
+  border-color: #7C8F6C !important;
+  color: white !important;
+}
+.card-custom {
+  background-color: #f2f2f2 !important;
 }
