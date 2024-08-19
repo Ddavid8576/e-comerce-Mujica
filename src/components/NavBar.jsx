@@ -4,9 +4,10 @@ import CartWidget from './CartWidget';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import logo from '../assets/LOGO-m.png';
 
+
 const NavBar = () => {
   return (
-    <nav className="navbar navbar-expand-lg custom-navbar" style={{ backgroundColor: '#295927' }}>
+    <nav className="navbar navbar-expand-lg custom-navbar" style={{ backgroundColor: '#83c997' }}>
       <Link className="navbar-brand text-white" to="/">
         <img src={logo} alt="Logo" style={{ width: '40px', marginRight: '10px' }} />
         SHIRLEY STYLE
@@ -20,13 +21,13 @@ const NavBar = () => {
             <Link className="nav-link text-white" to="/">Inicio</Link>
           </li>
           <li className="nav-item">
-            <Link className="nav-link text-white" to="/category/Productos">Productos</Link>
+            <Link className="nav-link text-white" to="/category/productos">Productos</Link>
           </li>
           <li className="nav-item">
-            <Link className="nav-link text-white" to="/category/Servicios">Servicios</Link>
+            <Link className="nav-link text-white" to="/category/servicios">Servicios</Link>
           </li>
           <li className="nav-item">
-            <Link className="nav-link text-white" to="/category/Herramientas">Herramientas</Link>
+            <Link className="nav-link text-white" to="/category/herramientas">Herramientas</Link>
           </li>
         </ul>
       </div>

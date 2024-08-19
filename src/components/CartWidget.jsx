@@ -1,13 +1,18 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
+import { useCart } from '../contexts/CartContext';
 import { FaShoppingCart } from 'react-icons/fa';
-import 'bootstrap/dist/css/bootstrap.min.css';
 
 const CartWidget = () => {
+  const { getTotalQuantity } = useCart();
+
   return (
-    <div className="cart-widget">
-      <FaShoppingCart className="text-white" />
-      <span className="badge badge-pill badge-primary">5</span>
-    </div>
+    <Link to="/cart" className="cart-widget">
+      <FaShoppingCart size={24} color="#fff" />
+      {getTotalQuantity() > 0 && (
+        <span className="badge badge-pill badge-light">{getTotalQuantity()}</span>
+      )}
+    </Link>
   );
 };
 
